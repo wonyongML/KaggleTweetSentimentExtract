@@ -1,0 +1,3 @@
+# KaggleTweetSentimentExtract
+
+This directory is made for sharing codes...
